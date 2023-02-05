@@ -62,7 +62,7 @@ const Services = () => {
           onClick={changeSlides}
         >
           <p className="decoration text-base underline hover:text-[#E94E35] active:text-black">{`${
-            openWorks ? "Ver menos" : "Ver todo"
+            openWorks ? "See less" : "See more"
           }`}</p>
         </div>
       </div>
