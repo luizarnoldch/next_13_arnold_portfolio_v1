@@ -16,7 +16,7 @@ const Contact = (props: Props) => {
           <h1 className=''>Contact</h1>
         </div>
         <p className='mx-auto w-full max-w-[32rem] text-center my-8'>
-          Come on, send me a message so we can keep in touch and develop your next project. Do not forget to send me your information so that I can contact you directly if necessary. Wait for your message...
+          Come on, send me a message so we can keep in touch and develop your next project. tell me about your project to make it happen. Wait for your message...
         </p>
         
         {/* Form */}
