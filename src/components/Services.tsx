@@ -7,22 +7,22 @@ const myServices = [
   {
     title: "Web Development",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus a sem id consequat. Donec ornare dictum dolor, eget lobortis turpis sodales quis. Etiam non odio dui. Nam aliquam diam.",
+      "I am an expert in web development with React tools, Nextjs in the front-end and NodeJS, Golang and Java.",
   },
   {
     title: "Database Administration",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus a sem id consequat. Donec ornare dictum dolor, eget lobortis turpis sodales quis. Etiam non odio dui. Nam aliquam diam.",
+      "I manage MongoDB, MySQL, SQL Server, PostgreSQL databases",
   },
   {
     title: "Data Analisis",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus a sem id consequat. Donec ornare dictum dolor, eget lobortis turpis sodales quis. Etiam non odio dui. Nam aliquam diam.",
+      "I use the Python programming language as well as the Numpy, Skitlearn, Teras, TensorFlow, Seaborn, MatPlotLib and Pandas libraries.",
   },
   {
     title: "English && Development",
     content:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean dapibus a sem id consequat. Donec ornare dictum dolor, eget lobortis turpis sodales quis. Etiam non odio dui. Nam aliquam diam.",
+      "I have an advanced command of the English language since I base all my learning using English as a second language.",
   },
 ];
 

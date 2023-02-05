@@ -17,22 +17,16 @@ const About = (props: Props) => {
         <div className="flex h-3/5 w-full items-center justify-center">
           <div className="m-auto flex flex-col gap-10 rtl:text-base">
             <div className="scroll-bar sm:max-w-[22rem] lg:max-w-[50rem]">
-              <p className="scroll-bar-text max-h-[16rem] overflow-y-auto text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-                aliquet et diam sed eleifend. Sed at arcu tincidunt ante aliquet
-                congue. Nullam at vestibulum lectus. Sed posuere ornare posuere.
-                Sed tempor egestas ipsum, a interdum urna imperdiet vitae. Fusce
-                elementum justo at dignissim tincidunt. Vivamus semper et dui
-                feugiat iaculis. Nulla et condimentum nulla. Donec et felis in
-                mauris suscipit suscipit at quis lacus. Nam maximus a lacus
-                tincidunt mattis. Sed dignissim tristique diam, quis efficitur
-                quam ultrices sed. Sed eu vehicula tellus. Cras vel gravida
-                ante. Donec vitae feugiat tortor. Cras ultricies libero massa,
-                sit amet accumsan elit varius a. Phasellus magna ex, porta sed
-                sapien a, ultrices ornare lorem. Pellentesque vel fermentum
-                nisl, et commodo justo. Morbi id augue ut nunc semper faucibus.
-                Vivamus varius nunc vitae posuere facilisis. Nunc cursus tempor
-                erat, a lobortis mauris porta faucibus.
+              <p className="scroll-bar-text max-h-[36rem] overflow-y-auto text-center">
+              Hi! I&apos;m Arnold, a Software Engineering student at the Universidad Nacional Mayor de San Marcos, I speak Spanish as my first language and English as my second language. <br /><br />
+
+              Throughout this student stage, I was able to develop my soft skills such as communication and leadership as well as my hard skills such as programming and project development. At the same time I was able to reinforce my skills with external courses on online education platforms such as udemy, platzi, etc., as well as external diplomas.<br /><br />
+
+              I am passionate about software development in general since I can do and support others to carry out their projects. I am in constant training so that my work has a high impact.<br /><br />
+
+              My professional objective is to be able to develop high-impact software projects. I am looking for companies or people with ambitious projects that allow me to apply all my knowledge and also continue to grow as a professional.<br /><br />
+
+              If I am the missing piece in your team, you can contact me through my social networks or send me a personal email.<br /><br />
               </p>
             </div>
             <Media />

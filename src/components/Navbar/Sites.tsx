@@ -1,6 +1,6 @@
 /* eslint-disable @next/next/no-img-element */
 import useMediaQuery from "@/hooks/useMediaQuery";
-import Link from "next/link";
+import { Link } from "react-scroll";
 import { useState } from "react";
 import Image from "next/image";
 import AlignRight from "@/assets/icons/Align-Right.png";
@@ -11,23 +11,23 @@ type Props = {};
 const NavSites = [
   {
     name: "Home",
-    route: "./",
+    route: "home",
   },
   {
     name: "About",
-    route: "./about",
+    route: "about",
   },
   {
     name: "Works",
-    route: "./work",
+    route: "works",
   },
   {
     name: "Services",
-    route: "./services",
+    route: "services",
   },
   {
     name: "Contact",
-    route: "./contact",
+    route: "contact",
   },
 ];
 
@@ -59,7 +59,7 @@ const Navbar = (props: Props) => {
                     key={sites.name}
                     className="no-underline decoration-white decoration-2 hover:cursor-pointer hover:underline hover:underline-offset-8"
                   >
-                    <Link href={sites.route}>{sites.name}</Link>
+                    <Link to={sites.route} smooth={true} >{sites.name}</Link>
                   </li>
                 ))}
               </ul>
@@ -82,7 +82,7 @@ const Navbar = (props: Props) => {
               key={sites.name}
               className="no-underline decoration-[#E94E35] decoration-2 hover:cursor-pointer hover:underline hover:underline-offset-8"
             >
-              <Link href={sites.route}>{sites.name}</Link>
+              <Link to={sites.route} smooth={true} >{sites.name}</Link>
             </li>
           ))}
         </ul>

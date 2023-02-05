@@ -12,10 +12,31 @@ const skillBand = [
     name: "*",
   },
   {
-    name: "DataBase",
+    name: "Databases",
   },
   {
     name: "*",
+  },
+  {
+    name: "Data Anaytics",
+  },
+  {
+    name: "*",
+  },
+  {
+    name: "Linux",
+  },
+  {
+    name: "*",
+  },
+  {
+    name: "Dev-Ops",
+  },
+  {
+    name: "*",
+  },
+  {
+    name: "Agile",
   },
 ];
 

@@ -7,7 +7,7 @@ const workPages = [
   {
     number: "1",
     name: "Pet's Work",
-    description: "Ecommerce de servicios para mascotas",
+    description: "Ecommerce for Pet Services",
     time: {
       begin: "2020-05-01",
       end: "2021-02-04",
@@ -16,7 +16,7 @@ const workPages = [
   {
     number: "2",
     name: "ECOTURISMO",
-    description: "Landing Page de destinos turísticos variados en Perú",
+    description: "Landing Page for turistic destinations in Peru",
     time: {
       begin: "2020-05-01",
       end: "2021-02-04",
@@ -25,7 +25,7 @@ const workPages = [
   {
     number: "3",
     name: "SMAYLI'S",
-    description: "Dashboard de Veterinaria",
+    description: "Veterinary Dashboard",
     time: {
       begin: "2020-05-01",
       end: "2021-02-04",
@@ -34,7 +34,7 @@ const workPages = [
   {
     number: "4",
     name: "DON JUAN",
-    description: "Restaurante virtual con emisión de boletas",
+    description: "Virtual Restaurant",
     time: {
       begin: "2020-05-01",
       end: "2021-02-04",

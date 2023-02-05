@@ -74,7 +74,7 @@ const Contact = (props: Props) => {
         })}
       />
       
-      <button type='submit' className='mx-auto mt-6 h-12 w-36 bg-black text-white'>
+      <button type='submit' className='mx-auto mt-6 h-12 w-36 bg-black text-white font-bold'>
         SUBMIT
       </button>
     </form>
