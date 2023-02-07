@@ -8,7 +8,7 @@ type Props = {};
 const About = (props: Props) => {
   return (
     <div className="h-screen w-full bg-white-150 pt-14">
-      <div className="flex flex-col gap-16 pt-32" id="about">
+      <div className="flex flex-col gap-16 lg:pt-32" id="about">
         <div className="flex h-2/5 w-full flex-col items-center justify-center gap-4">
           <Image src={Star} alt="orange_star" height={50} width={50} />
           <h1 className="">ABOUT ME</h1>
