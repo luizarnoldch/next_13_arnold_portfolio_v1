@@ -5,7 +5,7 @@ import {
   AiFillGithub,
   AiOutlineWhatsApp,
 } from "react-icons/ai";
-import { Link as LinkScroll } from "react-scroll";"react";
+import { Link as LinkScroll } from "react-scroll";
 
 const mediaNetwork = [
   {
